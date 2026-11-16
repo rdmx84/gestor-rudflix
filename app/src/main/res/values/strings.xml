@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Gestor Rudflix</string>
+    <string name="launch_url" translatable="false">https://gestorv3.org/rudflix/control/home</string>
+</resources>

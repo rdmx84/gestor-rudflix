@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.WebApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:statusBarColor">@color/status_bar_color</item>
+        <item name="android:navigationBarColor">@color/navigation_bar_color</item>
+        <item name="android:windowBackground">@color/splash_bg_color</item>
+    </style>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <color name="status_bar_color">#3f54a6</color>
+    <color name="navigation_bar_color">#0f172a</color>
+    <color name="splash_bg_color">#ffffff</color>
+</resources>
